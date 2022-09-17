@@ -17,5 +17,9 @@ When you need any information from the internet, you type in the information int
 * Strings and its functions used in php
 * how to include html in php
 * isset function
-* creating a database connection with website.
+* Creating a MySQL Database
+* Creating a database connection with website.
 * Execute queries.
+
+
+![Image of the travel form](travel-form.png)
